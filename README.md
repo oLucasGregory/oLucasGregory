@@ -2,7 +2,7 @@
 
 🔭 Estudante de Programação
 
-<div style = "display: inline_block"> <picture>
+<div style = "display: flex"> <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=oLucasGregory&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -15,8 +15,8 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oLucasGregory&layout=compact)
-</div>
 
+</div>
 
 
 <!--
