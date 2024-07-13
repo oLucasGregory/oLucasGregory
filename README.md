@@ -2,7 +2,7 @@
 
 🔭 Estudante de Programação
 
-<div style = "display: flex"> <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=oLucasGregory&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -16,7 +16,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oLucasGregory&layout=compact)
 
+<div style = "display: flex;">
+<i class="devicon-javascript-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+          
 </div>
+
+
+            
+          
+
 
 
 <!--
