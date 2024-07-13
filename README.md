@@ -18,7 +18,9 @@
 
 <div style = "display: flex;">
 <i class="devicon-javascript-plain colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<i class="devicon-react-original colored"></i>
+            
+          
           
           
 </div>
