@@ -16,14 +16,22 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oLucasGregory&layout=compact)
 
-<div style = "display: flex;">
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-react-original colored"></i>
-            
-          
-          
-          
+<div style="display: flex;">
+  <img style="width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img  style="width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img style="width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img style="width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img style="width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
+  <img style="width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img style="width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
+  <img style="width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />          
 </div>
+
+          
+
+
+        
+          
 
 
             
